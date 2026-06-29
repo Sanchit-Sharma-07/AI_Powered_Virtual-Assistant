@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 python app.py
 
-Future Enhancements
+##Future Enhancements
 Smart reminders
 Email automation
 Weather updates
