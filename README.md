@@ -27,3 +27,12 @@ git clone https://github.com/Sanchit-Sharma-07/AI_Powered_Virtual_Assistant.git
 pip install -r requirements.txt
 
 python app.py
+
+Future Enhancements
+Smart reminders
+Email automation
+Weather updates
+Calendar integration
+Author
+
+Sanchit Sharma
