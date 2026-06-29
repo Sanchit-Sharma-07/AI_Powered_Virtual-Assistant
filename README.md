@@ -21,7 +21,7 @@ A Python-based virtual assistant capable of answering queries, opening applicati
 
 ## Installation
 
-```bash
+bash
 git clone https://github.com/Sanchit-Sharma-07/AI_Powered_Virtual_Assistant.git
 
 pip install -r requirements.txt
@@ -38,3 +38,4 @@ Calendar integration
 ## Author
 
 Sanchit Sharma
+```
